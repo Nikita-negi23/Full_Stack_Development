@@ -1,0 +1,51 @@
+ALL TAGS.........................................
+Note - 'style' is an attribute which is used inside the tags.eg.Div and span tag,and so on.
+1. <br> - for line break
+2. <p> - for paragraph tag
+3. <table> - for making table
+4. <form> - for making form 
+5. <textarea> - for making a textbox with rows and columns.
+6. <rowspan> - for expanding row in table
+7. <colspan> - for expanding column in table
+8. <h1> to <h6> - for Headings
+9. <caption> - for table name
+10. <ol> - for ordered list 
+11. <ul> - for unordered list
+12. <tr> - for table Row
+13. <td> - for table Data or CEll
+14. <th> - for table HEADING
+15. <li> - for list item
+16. <div> - for block level element 
+17. <span> - for inline level element 
+18. <img> - for image
+19. <audio> - for audio
+20. <video> - for video
+21. <iframe> - for you tube video
+22. <a> - #anchor tag #For making a LINK
+23. <hr> - for making long Horizontal line
+24. <label> - for statement in forms
+25. <input> - for taking input
+-------------------------------------------------------------------------------------------
+IMp. placeholder - it is an attribute of input tag which is used for short hint.
+           it is used inside mainly input tag.
+           But we can use this attribute inside TEXTAREA TAG.
+-------------------------------------------------------------------------------------------
+##input tag with radio button:
+        <input type="radio" name="profession">Teacher
+        <input type="radio" name="profession">Professor
+-------------------------------------------------------------------------------------------
+## How to make Drop Down menu in html
+ -- tags used : select and option
+ -- Syntax  : 
+<label for="courses">How do you rate our courses?</label><br>
+        <select>
+            <option value="excellent">Excellent</option>
+            <option value="good">Good</option>
+            <option value="poor">Poor</option>
+        </select><br>
+-------------------------------------------------------------------------------------------
+required - it is an attribute used as mandatory.
+-----------------------------------------------------------------------------------------
+link tag
+--> it is used to link HTML FILE TO CSS FILE.
+----------------------------------------------------------------------------------------

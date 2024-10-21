@@ -1,0 +1,7 @@
+link tag
+-- > it is used to link HTML FILE TO CSS FILE or ( external CSS ) file.
+--------------------------------------------------------------------------------
+Types of CSS :
+1) inline css : written in single line with the help of STYLE ATTRIBUTE.
+2) internal css: /EMBEDDED CSS // written inside HEAD or BODY tag but in the HTML FILE.
+3) external css: we attach a CSS file externally with the help of LINK TAG.
